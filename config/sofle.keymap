@@ -56,7 +56,6 @@
             >;
 
             sensor-bindings =
-                <,
                 <&mouse_move_horiz MOVE_RIGHT MOVE_LEFT>,
                 <&mouse_move_vert MOVE_UP MOVE_DOWN>,
                 <&encoder_1>,
